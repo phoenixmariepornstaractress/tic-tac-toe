@@ -9,6 +9,7 @@ Github: https://www.github.com/kying18
 Programmer Beast Mode Spotify playlist: https://open.spotify.com/playlist/4Akns5EUb3gzmlXIdsJkPs?si=qGc4ubKRRYmPHAJAIrCxVQ 
 """
 
+# Developed by phoenix marie.
 import math
 import random
 
